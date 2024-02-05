@@ -15,32 +15,6 @@ This project leverages deep learning techniques to predict diseases by analyzing
 - **Interpretability:** Conducted analyses to interpret model predictions and understand the key factors influencing disease predictions.
 - **Scalability:** Designed the model to be scalable for integration into healthcare systems for real-time predictions.
 
-## Usage
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/disease-prediction.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd disease-prediction
-   ```
-
-3. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Run the prediction script:
-
-   ```bash
-   python predict_disease.py
-   ```
-
 ## Dataset
 
 The dataset used for this project is [https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset/)].
